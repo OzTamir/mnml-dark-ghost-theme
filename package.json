@@ -1,16 +1,16 @@
 {
-  "name": "mnml",
-  "description": "A minimal, responsive, fast ghost blog theme with great typography. Comes with Disqus comments, syntax highlighting, and KaTeX for mathematics, and more.",
-  "demo": "http://mnml.herokuapp.com",
+  "name": "dark mnml",
+  "description": "A dark variation of the mnml template",
+  "demo": "http://posts.oztamir.com",
   "version": "5.0.1",
   "engines": {
       "ghost": ">=3.11.0",
       "ghost-api": "v3"
   },
   "author": {
-      "name": "Curiositry",
-      "email": "isa@automathic.org",
-      "url": "http://curiositry.com"
+      "name": "Oz Tamir (based on the mnml theme by Curiositry)",
+      "email": "theoztamir@gmail.com",
+      "url": "http://oztamir.com/"
   },
   "config": {
       "posts_per_page": 5
@@ -33,6 +33,6 @@
   ],
   "repository": {
       "type": "git",
-      "url": "https://github.com/curiositry/mnml-ghost-theme.git"
+      "url": "https://github.com/OzTamir/mnml-dark-ghost-theme"
   }
 }
