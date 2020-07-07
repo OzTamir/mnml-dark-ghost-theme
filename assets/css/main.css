@@ -777,7 +777,7 @@
      color:slategray;
      display:inline-block;
      float:left;
-     padding: 0.7em .55rem 0rem 0;
+     padding: 0.6em .55rem 0rem 0;
    }
    
    .tag-template .page-title,
@@ -953,6 +953,10 @@
      max-width:250px;
    }
    
+   .post-content {
+     padding-left: 2rem;
+   }
+
    .post-content  > p:first-child::first-letter {
      font-size:4rem;
      margin:.55rem .55rem 0 0;
@@ -994,6 +998,12 @@
      font-size: .8888rem;
    }
    
+   @media (max-width: 500px) {
+    .post-meta {
+      font-size: 1.5rem;
+    }
+  }
+
    .author-thumb {
      width: 24px;
      height: 24px;
