@@ -180,7 +180,7 @@
    .post-content > p + p,
    .post-content .thumb + p,
    .post-content aside + p{
-     text-indent:1.65em;
+     margin-top: 2.2rem;
    }
    
    .post-content p{
@@ -896,7 +896,7 @@
      position: relative;
      max-width: 780px;
      margin: 2.457rem auto;
-     padding-bottom: 2.457rem;
+     padding-bottom: 3.46rem;
      border-bottom: #594f5f 1px solid;
      word-break: break-word;
      hyphens: auto;
@@ -1282,7 +1282,7 @@
    
    .kg-image-card figcaption,
    .kg-gallery-card figcaption {
-     margin: -1.0rem 0 1.5rem;
+     margin: 0rem 0 1.5rem;
    }
    
    .kg-gallery-container {
@@ -1451,6 +1451,7 @@
       to be flexible at smaller screen sizes while the share
       links remain at a fixed width the whole time */
    .post-footer .share {
+     text-align: center;
      position: absolute;
      top: 2.457rem;
      right: 0;
