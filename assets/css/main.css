@@ -111,7 +111,7 @@
        font-family: "Source Serif Pro", Georgia, serif;
        color: #B2B6BD;
        font-size:21px;
-       background: #2b303b;
+       background: #1b1e23;
        /* A slight hack to prevent full-bleed images from creating a scrollbar */
        overflow-x: hidden;
    
@@ -157,7 +157,7 @@
    }
    
    a {
-     color: #bf6165;
+     color: #e47277;
      transition: color ease 0.3s;
    }
    a:hover, a:active, a.active{
